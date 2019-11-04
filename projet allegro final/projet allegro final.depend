@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526334260 source:c:\users\administrateur\desktop\nouveau dossier (2)\projet allegro final\main.c
+	"biblio.h"
+
+1526334260 c:\users\administrateur\desktop\nouveau dossier (2)\projet allegro final\biblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1526335929 source:c:\users\administrateur\desktop\nouveau dossier (2)\projet allegro final\sousprog.c
+	"biblio.h"
+	<stdio.h>
+	<stdlib.h>
+
